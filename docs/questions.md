@@ -29,4 +29,7 @@
 ##### 7. User Interaction and JavaScript Execution
 * **Event Handling:** The browser handles user interactions (clicks, inputs, etc.) and JavaScript events, dynamically updating the page as needed.
 * **Asynchronous Requests:** JavaScript can make asynchronous HTTP requests (AJAX, Fetch API) to load additional data without refreshing the page. 
- 
+
+---
+
+##### [Back to Main](./index.md) 

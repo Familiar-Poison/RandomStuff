@@ -8,3 +8,4 @@ Welcome to my random collection of stuff.
 
 #### Reviewer
 * [Sample Questions](./questions.md)
+* [Notes](./notes.md)
