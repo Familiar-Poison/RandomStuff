@@ -1,8 +1,3 @@
----
-layout: default
-title: My Markdown Page
----
-
 #### What exactly happens when a browser tries to access a website?
 1. DNS Lookup
 * User Input: The user types a URL into the browser's address bar
