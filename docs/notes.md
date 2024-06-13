@@ -43,6 +43,13 @@
 ##### 10. Closing the Connection:
 * Depending on the connection settings and protocols used, the connection may be closed after the response is received, or it may be kept alive for further requests (HTTP Keep-Alive)
 
+
+##### What does mounting a disk mean?
+* It means to set up your local operating system so that a disk resource (*local disk drive, USB external volume, partition, subdirectory tree, server volume,...*) "looks like" a normal local disk and occupies a "drive" on your computer's operating system.
+* Once it's "mounted", you can see and access the disk resource just like a normal local hard drive (*with necessary permissions*).
+* The `/mnt` directory in Linux is used as a mount point for temporarily mounted filesystems. A mount point is a location in the directory hierarchy where a filesystem from a device is attached and making it accessible to the system and its users.
+
+
 ---
 
 ##### [Back to Main](./index.md) 
